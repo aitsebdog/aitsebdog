@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![img](https://imgs.search.brave.com/gCWQd2O6mOmxHh1s7otvZnGdqIqKOqVwsXp_GR17kDI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzkwL2Nk/L2E0LzkwY2RhNGUw/NTVjN2UxOGJkYzI0/OGJmNTgzYTY2NDg0/LmpwZw)
+
 <!--
 **aitsebdog/aitsebdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
